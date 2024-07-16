@@ -53,8 +53,8 @@ This notebook is an in-depth exploration of the Seaborn library, showcasing its 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-### How to Use
+## How to Use
 
-1. Clone the repository:
+Clone the repository:
    ```sh
-   git clone https://github.com/shakifahmed/python-libraries.git
+   git clone [https://github.com/shakifahmed/python-libraries.git
